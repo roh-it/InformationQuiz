@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:color="#1E90FF" android:width="5dp" />// for border color
+            <solid android:color="#000"/>//change color
+            <size android:width="150dp" android:height="50dp"/> // width and height
+            <corners android:bottomRightRadius="10dp"
+                android:bottomLeftRadius="10dp"
+                android:topRightRadius="10dp"
+                android:topLeftRadius="10dp"/>   //for making rounded edge
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Information Quiz</string>
+    <string name="question">Question</string>
+    <string name="play_again">Try Again?</string>
+    <string name="time">15</string>
+    <string name="correct">Correct Answer!</string>
+    <string name="wrongans">Oops, you went wrong there!</string>
+    <string name="timeup">Bummer, Time\'s Up!</string>
+    <string name="play_game">Play Game</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="cancel">✖</string>
+
+
+    <string-array name="categoryname">
+        <item>"Education"</item>
+        <item>"Zoology"</item>
+        <item>"Geography"</item>
+        <item>"Sports"</item>
+        <item>"Films"</item>
+    </string-array>
+
+
+</resources>
